@@ -2,6 +2,9 @@
 
 namespace CSI120_Lecture12
 {
+    // Hoang Khoi Gia Nguyen
+    // CSI 120 - Computer Progamming 1
+    // Lecture 12 Notes
     internal class Program
     {
         // Class
